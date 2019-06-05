@@ -1,0 +1,374 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+     	<?php include("includes/include_css.html") ?>
+    </head>
+    <body>
+
+	<section id="wicktree-main" class="hidden-xs">
+	<div class="outer-valign-container">
+		<div class="inner-valign-container">
+			
+	<div class="container-fluid a" style="width: 80%;">
+		<div class="row b"> 
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 c">
+			<div class="overlay">
+				<img src="img/PATTA.png" alt="wicktree"><br>
+				<span class="animated white">
+					Your request is being processed
+				</span>
+				<p class="details">
+					
+Find unprocessed range-free products here
+				</p>
+				</div>
+			</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align: right;">
+				<div class="overlay2">
+				<img src="img/GAJAR.png" alt="wicktree"><br>
+				<span class="animated1 white1">
+					Clean inside and out
+				</span>
+				<p class="details">
+					Lean food that is clean food
+				</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row adjust">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+				<img src="img/Chinha.png" alt="wicktree">
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+			<div class="overlay3">
+				 <img src="img/SHAKTIMANN.png" alt="wicktree"><br>
+				 <span class="animated white">
+					Fostered with care
+				</span>
+				<p class="details">
+					Cultivated by the nationally renowned nutritionist
+				</p>
+				</div>
+			</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="text-align: right;">
+				<div class="overlay4">
+				<img src="img/party.png" alt="wicktree"><br>
+				<span class="animated1 white1">
+					Lorem Ipsum
+				</span>
+				<p class="details">
+					Your request is being processed:<br>
+Find unprocessed range-free products here
+				</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="un-soon">
+		UNVEILING SOON
+	</div>
+	
+		</div>
+	</div>
+   </section>
+   <div id="fullpage" class="visible-xs">
+
+	<div class="section " id="section0">
+
+		<div class="intro">
+		 <img src="img/PATTA.png" alt="wicktree"><br>
+			<span class="animated white">
+					Your request is being processed
+				</span>
+				<p class="details">
+					
+Find unprocessed range-free products here
+				</p>
+		</div>
+		<div class="arrow-container">
+					<img src="img/arrow-flat.png" alt="wicktree">
+				</div>
+	</div>
+	<div class="section" id="section1">
+	    
+			<div class="intro">
+			 <img src="img/GAJAR.png" alt="wicktree"><br>
+			<span class="animated white">
+					Clean inside and out
+				</span>
+				<p class="details">
+					Lean food that is clean food
+				</p>
+		</div>
+	<div class="arrow-container">
+					<img src="img/arrow-flat.png" alt="wicktree">
+				</div>
+
+	</div>
+	<div class="section" id="section2">
+		<div class="intro">
+		 <img src="img/SHAKTIMANN.png" alt="wicktree"><br>
+			 <span class="animated white">
+					Fostered with care
+				</span>
+				<p class="details">
+					Cultivated by the nationally renowned nutritionist
+				</p>
+		</div>
+			<div class="arrow-container">
+					<img src="img/arrow-flat.png" alt="wicktree">
+				</div>
+	</div>
+	<div class="section" id="section3">
+		<div class="intro">
+		 <img src="img/party.png"><br>
+			four
+		</div>
+			<div class="arrow-container">
+					<img src="img/arrow-flat.png" alt="wicktree">
+				</div>
+	</div>
+	<div class="section" id="section4">
+		<div class="intro" style="margin-top: -100px;">
+			 <section id="footer">
+   		<div class="upper-footer">
+   			<div class="container-fluid">
+   				<div class="row">
+   					
+   					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center">
+   						<h1>GET YOUR HANDS ON!</h1>
+   						<div class="footer-para">
+   							Enter your email address below and stay updated
+with the latest product releases and tips on nutrition.
+   						</div>
+   						<div class="form-wrapper">
+   							<form id="cntc-form">
+   								<input type="text" id="email2"  class="textbox-style2" name="email2" placeholder="Join Our Mailing List" /><br>
+   								<span class="error2" style="display: block; visibility:hidden; color: red; font-size: 12px; margin-top: 10px;">Please enter a valid email id.</span>
+   						
+   								<input type="button" name="submit" class="button-style2" id="button-submit2" value="I AM IN" style="margin-top: 30px;" />
+   							</form>
+   						</div>
+   					</div>
+   					
+   				</div>
+   			</div>
+   		</div>
+   		<div class="inner-footer" style="position: absolute; bottom: 0; width: 100%;">
+   			<div class="crafted-footer">
+   				2016 Wicktree. All Rights Reserved.<br> Crafted by <a class="link" target="_blank" href="http://www.togglehead.in/"> TOGGLEHEAD</a>
+   			</div>
+   		</div>
+   </section>
+		</div>
+	</div>
+</div>
+   
+   <section id="footer">
+   		<div class="upper-footer">
+   			<div class="container-fluid">
+   				<div class="row">
+   					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="padding: 0;">
+   						<img src="img/Gehu.png" class="img-responsive gehu" alt="wicktree">
+   					</div>
+   					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-center">
+   						<h1>GET YOUR HANDS ON!</h1>
+   						<div class="footer-para">
+   							Enter your email address below and stay updated
+with the latest product releases and tips on nutrition.
+   						</div>
+   						<div class="form-wrapper">
+   							<form id="cntc-form">
+   							<div style="display: inline-block; width: 50%;">
+   								<input type="text"  class="textbox-style" id="email" name="email" placeholder="Join Our Mailing List" />
+   								<span class="error" style="display: block; visibility:hidden; color: red; font-size: 12px; margin-top: 10px;">Please enter a valid email id.</span>
+   								</div>
+   								
+   								<input type="button" name="submit" class="button-style" id="button-submit" value="I AM IN" />
+   							</form>
+   						
+   						</div>
+   							
+   					</div>
+   					
+   					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" style="padding: 0;">
+   						<img src="img/Choco.png" class="img-responsive choco" alt="wicktree">
+   					</div>
+   				</div>
+   			</div>
+   		</div>
+   		<div class="inner-footer">
+   			<div class="crafted-footer">
+   				2016 Wicktree. All Rights Reserved. Crafted by <a class="link" target="_blank" href="http://www.togglehead.in/">TOGGLEHEAD</a>
+   			</div>
+   		</div>
+   </section>
+   
+ 	<?php include("includes/include_js.html") ?>
+
+	<script>
+  pic = new Image();
+  pic2 = new Image();
+  pic3 = new Image();
+  pic4 = new Image();
+  pic.src="img/one.png";
+  pic2.src="img/two.png";
+  pic3.src="img/four.png";
+  //pic4.src="img/four.png";
+</script>
+
+
+<script>
+$(document).ready(function(){
+
+    $(".overlay").mouseenter(function(){
+        $("#wicktree-main").css("background-image", "url('img/one.png')");
+        
+    });
+    
+
+$(".overlay2").mouseenter(function(){
+        $("#wicktree-main").css("background-image", "url('img/two.png')");
+    });
+  
+
+$(".overlay3").mouseenter(function(){
+        $("#wicktree-main").css("background-image", "url('img/four.png')");
+    });
+ 
+
+$(".overlay4").mouseenter(function(){
+        $("#wicktree-main").css("background-image", "url('img/four.png')");
+    });
+
+    
+ $(".arrow-container").on("click",function(){
+			$.fn.fullpage.moveSectionDown();
+		});
+   
+});
+</script>
+<script>
+
+		   $(window).load(function() {
+
+      if ($(window).width() <= 768) { 	
+      	  $('#fullpage').fullpage({
+				
+				navigation: true
+				
+			});
+      }
+      else {
+     	$.fn.fullpage.destroy();
+       
+      }
+   });
+
+
+ $(window).resize(function() {
+      if ($(window).width() <= 768) { 	
+      	  $('#fullpage').fullpage({
+				
+				navigation: true
+				
+			});
+		
+      }
+      else {
+     	$.fn.fullpage.destroy();
+       
+      }
+   });
+</script>
+
+
+<script>
+function validateEmail(email) { 
+
+							var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+							return re.test(email);
+						}
+	$(".button-style").on("click",function(){
+	
+		var voter_email = $("#email").val();
+	
+		
+		if(validateEmail(voter_email)){
+			$(".error").css("visibility", "hidden");
+				$('.textbox-style').val("");
+		$(".textbox-style").attr("placeholder", "Thanks for subscribing! :)");
+		$.ajax({
+							url: "newphpmailer/submit_post_form.php",
+							method: "POST",
+							data: {
+								email : voter_email
+							},
+							
+							success: function(result){
+								
+								console.log(result);
+								
+							},
+							
+							error: function(request, err){
+								alert("Please Resubmit");
+								
+							}
+						});
+						
+						}else{
+						 $(".error").css("visibility", "visible");
+						}
+	});
+</script>
+
+
+<script>
+function validateEmail2(email2) { 
+							var re2 = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+							return re2.test(email2);
+						}
+	$(".button-style2").on("click",function(){
+		
+		var voter_email2 = $("#email2").val();
+
+		if(validateEmail2(voter_email2)){
+			$(".error2").css("visibility", "hidden");
+				$('.textbox-style2').val("");
+								$(".textbox-style2").attr("placeholder", "Thanks for subscribing! :)");
+		$.ajax({
+							url: "newphpmailer/submit_post_form_res.php",
+							method: "POST",
+							data: {
+								email2 : voter_email2
+							},
+							
+							success: function(result){
+								
+								console.log(result);
+							},
+							
+							error: function(request, err){
+								alert("error");
+							}
+						});
+						
+						}else{
+							$(".error2").css("visibility", "visible");
+						}
+	});
+</script>
+
+
+       	<?php include("includes/include_ga.html") ?>
+    </body>
+</html>
